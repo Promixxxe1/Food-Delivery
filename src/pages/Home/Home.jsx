@@ -1,6 +1,6 @@
 import Header from "../../components/Navbar/Header/Header";
 import ExploreMenu from "../../components/ExploreMenu/ExploreMenu";
-import FoodDisplay from "../../components/foodDisplay/foodDisplay";
+import FoodDisplay from "../../components/FoodDisplay/FoodDisplay";
 import "./Home.css";
 import { useState } from "react";
 
